@@ -1,0 +1,13 @@
+body {
+    padding-bottom: 50px;
+}
+
+.nes-progress {
+    height: 25px;
+}
+
+#myPic {
+    width: 9rem;
+    border-radius: 30px;
+
+}
