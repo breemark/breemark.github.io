@@ -14,6 +14,11 @@ body {
 #footer {
     margin-top: 50px;
     margin-bottom: 10px;
-
     font-size: 1rem;
+}
+
+@media (max-width: 479px) {
+    .company-icon {
+        visibility: hidden
+    }
 }
