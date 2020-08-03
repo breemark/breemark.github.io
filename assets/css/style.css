@@ -9,5 +9,9 @@ body {
 #myPic {
     width: 9rem;
     border-radius: 30px;
+}
 
+#footer {
+    margin-top: 50px;
+    font-size: 60%;
 }
